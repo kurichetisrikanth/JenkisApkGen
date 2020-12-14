@@ -29,7 +29,9 @@
         "needAppMenu": false
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "Button0ca97c851964e4b"
+    ],
     "containerweight": 100,
     "currentLocale": "default",
     "desktopweb": {
